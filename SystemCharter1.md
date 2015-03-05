@@ -1,4 +1,6 @@
 System Charter
+=======
+
 This System must:
 
 * Keep track of the room(s) and equipment reserved by each conference.
