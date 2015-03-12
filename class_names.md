@@ -9,3 +9,4 @@ Lists of classes
 * conference
 * session
 * presentation
+* schedule
