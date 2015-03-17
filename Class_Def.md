@@ -105,3 +105,20 @@ Constraints:
 
 * A Presentation must be part of a session, and every session must have at least one presentaion. Should make use of tech and other equipment
 
+
+========
+========
+
+Class name:
+
+* Person
+
+Documentation:
+
+Definition:
+
+* Person reprsents a generic person with no roles or specializations.
+
+Constraints:
+
+* Each person must be uniquely identifiable and there cannot be more then one entry per real person in the system (No duplicates).
