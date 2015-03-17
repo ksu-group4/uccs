@@ -11,3 +11,7 @@ Conference: A conference is a meeting for consultation, discussion or to settle 
 Session: A Session is a single sitting for conference of those assembled.
 
 Presentation: A Presentation is a demonstration or lecture.
+
+Person: Person reprsents a generic person with no roles or specializations.
+
+
