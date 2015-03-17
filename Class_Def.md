@@ -29,7 +29,7 @@ Constraints:
 ========
 
 Class Name:
-* Room;
+* Room
 
 Documentation:
 
@@ -43,7 +43,7 @@ Constraints:
 ========
 
 Class Name:
-* Administrator;
+* Administrator
 
 Documentation:
 
@@ -87,7 +87,6 @@ Constraints:
 
 * A Session must be part of a conference. There may be multiple sessions in a conference, but it must have at least one session. 
 
-
 ========
 ========
 
@@ -105,7 +104,6 @@ Constraints:
 
 * A Presentation must be part of a session, and every session must have at least one presentaion. Should make use of tech and other equipment
 
-
 ========
 ========
 
@@ -122,3 +120,6 @@ Definition:
 Constraints:
 
 * Each person must be uniquely identifiable and there cannot be more then one entry per real person in the system (No duplicates).
+ 
+=======
+=======
