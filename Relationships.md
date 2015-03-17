@@ -4,12 +4,14 @@
     
     person:
     * association with conference
-    * inheritence/generalization of guest
+    * generalization of guest
     
     admin:
-    * 
+    * derived from person
+    * association with conference
     
     tech:
+    * derived from person
     * association with equipment
     * association with session
     * association with room
