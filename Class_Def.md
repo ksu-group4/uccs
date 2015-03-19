@@ -123,3 +123,15 @@ Constraints:
  
 =======
 =======
+
+* Guest
+
+Documentation:
+
+Definition:
+
+* Guest represents a visitor to the conference.
+
+Constraints:
+
+* Each guest is unique. Some guests may be in special sessions, some may not. All guests will attend at least one session.
