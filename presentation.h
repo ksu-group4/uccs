@@ -17,7 +17,7 @@ public:
 
 private:
     int id;
-    session_ref session;
+    session_ref sid; /// reference to session this belongs to.
     std::string name;
     bool is_paid; /// does this presentation require payment?
 };
