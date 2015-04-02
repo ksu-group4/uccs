@@ -5,6 +5,7 @@ Guest represents a visitor to the conference.
 */
 #ifndef INCLUDED_GUEST_H
 #define INCLUDED_GUEST_H
+#include <string>
 
 class person {
 public:
