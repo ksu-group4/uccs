@@ -4007,9 +4007,9 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 476,
+									"left": 466,
 									"top": 688,
-									"width": 37,
+									"width": 56,
 									"height": 13,
 									"autoResize": false,
 									"alpha": 1.5707963267948966,
@@ -4019,7 +4019,7 @@
 									},
 									"edgePosition": 1,
 									"underline": false,
-									"text": "+go to",
+									"text": "+reserves",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -5663,13 +5663,13 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 199,
-									"top": 436,
+									"left": 205,
+									"top": 425,
 									"width": 50,
 									"height": 13,
 									"autoResize": false,
-									"alpha": 1.7151458125215946,
-									"distance": 26.90724809414742,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
 									"hostEdge": {
 										"$ref": "AAAAAAFMNLfZ7bv+4r4="
 									},
@@ -6077,19 +6077,19 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 623,
-									"top": 328,
-									"width": 43,
+									"left": 604,
+									"top": 331,
+									"width": 49,
 									"height": 13,
 									"autoResize": false,
-									"alpha": 1.7033473392329865,
-									"distance": 30.265491900843113,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
 									"hostEdge": {
 										"$ref": "AAAAAAFMNLl478fGtjU="
 									},
 									"edgePosition": 1,
 									"underline": false,
-									"text": "+check",
+									"text": "+fills out",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -9784,7 +9784,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFMNKxKH6f+cUw="
 							},
-							"name": "go to",
+							"name": "reserves",
 							"end1": {
 								"_type": "UMLAssociationEnd",
 								"_id": "AAAAAAFMNLU4na8kWns=",
@@ -10097,7 +10097,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFMNKyEa6hKS8I="
 							},
-							"name": "check",
+							"name": "fills out",
 							"end1": {
 								"_type": "UMLAssociationEnd",
 								"_id": "AAAAAAFMNLl478fDO78=",
