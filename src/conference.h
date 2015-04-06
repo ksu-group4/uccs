@@ -1,4 +1,4 @@
-/*
+/**
 conference.h
 Declaration file for the class conference.
 

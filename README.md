@@ -1,15 +1,19 @@
-# uccs
-
-Everyone needs to comment here for one of the deliverables.
-
 Nicholas Terra
 
-  *Created augmented class diagrams using UML outlining the associations and agrregations as well as any inherited classes.
-  *Determined the role of session, conference and presentation class.
-  As for group work in general, I think everyone had an idea of how they wanted to contribute andhad no problem in letting others knew what they could and couldn't do. 
-  
-====
-====
+*Created augmented class diagram in UML. Outlined the associations and aggregations of the classes as well as inherited classes.
+*Was in charge of determining the role of session, conference and presentation. 
+As for group work in general, I think everyone had an idea of how they wanted to contribute andhad no problem in letting others knew what they could and couldn't do. 
+
+===
+===
+
+James Spahlinger
+
+* I like the projects. I wish we had a group meeting before or after the exam in class on thursday before spring break.
+* as of this edit, the project has been turned in.
+
+===
+===
 
 Patrick Hoerrle :
 
