@@ -6,6 +6,7 @@ Nicholas Terra
 
   *Created augmented class diagrams using UML outlining the associations and agrregations as well as any inherited classes.
   *Determined the role of session, conference and presentation class.
+  As for group work in general, I think everyone had an idea of how they wanted to contribute andhad no problem in letting others knew what they could and couldn't do. 
   
 ====
 ====
