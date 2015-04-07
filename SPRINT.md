@@ -6,6 +6,8 @@ make
 
 ./uccs
 
+====
+====
 
 Sprint 1: 04/07/15 - 04/10/15
 
@@ -14,6 +16,8 @@ class category diagram
 add remove guest
 
 plan of executable releases
+
+constructors
 
 ====
 ====
