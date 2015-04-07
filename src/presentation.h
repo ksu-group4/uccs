@@ -9,8 +9,9 @@ A Presentation is a demonstration or lecture.
 #define INCLUDED_PRESENTATION_H
 #include <string>
 
-typedef session* session_ref; /// Type decleration for refering to a session.
+
 class session; // farward declare session class.
+typedef session* session_ref; /// Type decleration for refering to a session.
 
 class presentation {
 public:
