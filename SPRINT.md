@@ -2,9 +2,13 @@
 
 cd cygdrive/c/
 
+src
+
 make
 
 ./uccs
+
+g++      gdb
 
 ====
 ====
