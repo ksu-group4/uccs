@@ -14,4 +14,6 @@ Presentation: A Presentation is a demonstration or lecture.
 
 Person: Person reprsents a generic person with no roles or specializations.
 
+Schedule: A time management tool which consists of events or tasks and the time and location they are to take place.
+
 
