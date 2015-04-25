@@ -24,6 +24,6 @@ class Guest
         void addGuest();
         void listGuests();
         queue<string> guestList;
-}
+};
 
 #endif

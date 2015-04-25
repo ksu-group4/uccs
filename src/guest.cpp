@@ -3,10 +3,7 @@
 //Declaration file for the class guest.
 //guest represents a visitor to the conference.
 
-
 #include "guest.h"
-
-using namespace std;
 
 void Guest::addGuest()
 {
@@ -20,7 +17,7 @@ void Guest::addGuest()
 
 		guestList.push(name);
 
-	    cout << "The guest " << name << "has been added to the guest list! \n"
+	    cout << "The guest " << name << "has been added to the guest list! \n";
         cout << "Add a new guest? (y/n) \n";
         cin >> again;
 
