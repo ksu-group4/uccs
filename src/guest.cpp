@@ -3,42 +3,38 @@
 //Declaration file for the class guest.
 //guest represents a visitor to the conference.
 
-#include <iostream>
-#include <string>
-#include <queue>
+
 #include "guest.h"
 
 using namespace std;
 
-int main()  
+void Guest::addGuest()
 {
+    char again;
 
-again ='y';
-
-while(again == 'y' || again == 'Y')
-	{
-	  cout << "Enter name of guest...\n";
-	    cin >> ws;
+    do
+    {
+	    cout << "Enter name of guest...\n";
+        cin >> ws;
 		getline (cin, name);
 
-		q.push(name);
+		guestList.push(name);
 
-	  cout << "Welcome " << name << "! \n"
-	       << "Enter a new guest? (y/n) \n";
-			   cin >> again;
-	}	
+	    cout << "The guest " << name << "has been added to the guest list! \n"
+        cout << "Add a new guest? (y/n) \n";
+        cin >> again;
 
-	cout << endl;
+    }while (again =='y' || again =='Y');
+}
 
-	cout << "There are " << q.size() << " guests currently in this queue." << endl << endl;
+void Guest::listGuests()
+{
+    cout << "There are " << guestList.size() << " guests currently in this queue." <<endl;
 
-	while(!q.empty())
+	while(!guestList.empty())
 	{
-		cout << "\t" << q.front() << endl;
-		q.pop();
+		cout << "\t" << guestList.front() << endl;
+		guestList.pop();
 		cout << endl;
-	}   
-
-system ("pause");
-return 0;
+	}
 }

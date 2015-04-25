@@ -7,11 +7,23 @@ Guest represents a visitor to the conference.
 
 #ifndef _GUEST_H
 #define _GUEST_H
-using namespace std;
 
 #include <string>
-queue<string> q;
-string name;
-char again;
+#include <iostream>
+#include <string>
+#include <queue>
+
+using namespace std;
+
+class Guest
+{
+    private:
+        string name;
+    public:
+        Guest();
+        void addGuest();
+        void listGuests();
+        queue<string> guestList;
+}
 
 #endif
