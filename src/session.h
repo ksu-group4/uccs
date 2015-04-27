@@ -14,6 +14,10 @@ typedef conference* conference_ref;
 
 class session {
 public:
+        session();
+        ~session();
+        void addSession();
+        void removeSession();
 
 private:
     int id;
